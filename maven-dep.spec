@@ -1,6 +1,6 @@
 Name     : maven-dep
 Version  : 3.3.9
-Release  : 4
+Release  : 5
 URL      : https://repo.maven.apache.org/maven2
 Source0 : https://repo.maven.apache.org/maven2/antlr/antlr/2.7.2/antlr-2.7.2.jar
 Source1 : https://repo.maven.apache.org/maven2/antlr/antlr/2.7.2/antlr-2.7.2.pom
