@@ -1,0 +1,15 @@
+--- /dev/null	2019-02-20 22:41:23.236102819 +0000
++++ org/apache/maven/maven-plugin-api/maven-metadata-local.xml	2019-02-21 00:21:57.145079695 +0000
+@@ -0,0 +1,12 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<metadata>
++  <groupId>org.apache.maven</groupId>
++  <artifactId>maven-plugin-api</artifactId>
++  <versioning>
++    <release>3.6.0</release>
++    <versions>
++      <version>3.6.0</version>
++    </versions>
++    <lastUpdated>20190221002157</lastUpdated>
++  </versioning>
++</metadata>
