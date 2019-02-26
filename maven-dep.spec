@@ -1,6 +1,6 @@
 Name     : maven-dep
 Version  : 3.6.0
-Release  : 6
+Release  : 7
 URL      : https://repo.maven.apache.org/maven2
 Summary  : No detailed summary available
 Group    : Development/Tools
