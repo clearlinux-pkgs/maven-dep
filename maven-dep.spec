@@ -1,10 +1,10 @@
 Name     : maven-dep
 Version  : 3.6.0
-Release  : 7
+Release  : 8
 URL      : https://repo.maven.apache.org/maven2
 Summary  : No detailed summary available
 Group    : Development/Tools
-License  : Apache-2.0 BSD-2-Clause LGPL-3.0 GPL-2.0	CDDL-1.0 CDDL-1.1 EPL-1.0 MIT LGPL-2.1-only GPL-3.0-only BSD-3-Clause CPL-1.0 ICU
+License  : Apache-2.0 BSD-2-Clause LGPL-3.0 GPL-2.0	CDDL-1.0 CDDL-1.1 EPL-1.0 MIT LGPL-2.1-only GPL-3.0-only BSD-3-Clause CPL-1.0 ICU Public-Domain
 Source0 : https://repo1.maven.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.pom
 Source1 : https://repo1.maven.org/maven2/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.jar
 Source2 : https://repo1.maven.org/maven2/classworlds/classworlds/1.1/classworlds-1.1.pom
